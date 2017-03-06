@@ -7,10 +7,17 @@ This is a repository of Assemblee LoESoft Game Client of LoE Realm project which
 Credits for development:
 
 @Devwarlt
+
 @ossimc82
+
 @GhostMaree
+
 @cp-nilly
+
 @Kithio
+
 @creepylava
+
 @Omniraptyr
+
 @Slendergo
