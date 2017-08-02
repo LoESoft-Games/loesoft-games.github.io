@@ -6,7 +6,7 @@ This is a repository of Assemblee Game Client of MayhemLab project which contain
 
 Credits for development:
 
-- @Devwarlt;
+- @nits;
 - @ossimc82;
 - @GhostMaree;
 - @cp-nilly;
