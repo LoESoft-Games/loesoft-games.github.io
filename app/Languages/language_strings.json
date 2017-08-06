@@ -1,6 +1,8 @@
 [
     [ "players.Barbarian_desc", "This character is capable of doing massive amounts of damage.", "en" ],
     [ "players.Barbarian", "Barbarian", "en" ],
+    [ "EquipmentType.Axe", "Axe", "en"],
+    [ "EquipmentType.Gauntlet", "Gauntlet", "en"],
     [ "high.Urgle", "Urgle", "en" ],
     [ "dyes.Old_Lace_Clothing_Dye", "Old Lace Clothing Dye", "en" ],
     [ "stringlist.Ghost_Ship.new.0", "A Ghost Ship has entered the Realm.", "en" ],
