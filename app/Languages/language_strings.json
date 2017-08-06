@@ -1,9 +1,4 @@
 [
-    [ "server.invalid_client", "Server cannot register your request as valid connection, about it your connect was refused.", "en"],
-    [ "server.server_is_full", "Server is full at this moment, try again later.", "en"],
-    [ "server.account_banned", "Your account is temporary suspended, about it your connect was refused.", "en"],
-    [ "server.invalid_connection_type", "Server cannot register your request as valid connection protocol, about it your connection was refused.", "en"],
-    [ "server.update_client", "Your client version is outdated. Close your Flash Projector or reload your browse to update.", "en" ],
     [ "players.Barbarian_desc", "This character is capable of doing massive amounts of damage.", "en" ],
     [ "players.Barbarian", "Barbarian", "en" ],
     [ "EquipmentType.Axe", "Axe", "en"],
@@ -3072,6 +3067,7 @@
     [ "Pets.automaton", "Automaton", "en" ],
     [ "permapets.Praying_Mantis", "Praying Mantis", "en" ],
     [ "epicpirateCave.Deadwater_Docks_Brawler", "Deadwater Docks Brawler", "en" ],
+    [ "server.update_client", "Reload your browser to update client", "en" ],
     [ "abyssOfDemons.Brute_Warrior_of_the_Abyss", "Brute Warrior of the Abyss", "en" ],
     [ "Options.ContextualPotionBuyDesc", "Toggle the ability to purchase potions with gold", "en" ],
     [ "encounters.Hermit_God_Drop", "Hermit God Drop", "en" ],
