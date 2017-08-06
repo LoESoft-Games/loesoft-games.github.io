@@ -1,7 +1,7 @@
 [
     {
         "slot": 1,
-        "linkType": 1,
+        "linkType": 0,
         "platform": "kabam.com,kongregate,steam,rotmg",
         "startTime": 0,
         "title": "New update is live!",
@@ -42,5 +42,5 @@
         "endTime": 2556143999000,
         "linkDetail": "<h2>Change log:</h2><br><ul><li>test message 1;</li><li>test message 2.</li></ul><br></hr><center>Best Regards, TFR Team</center>",
         "priority": 1043
-    } 
+    }
 ]
