@@ -36,11 +36,22 @@
         "slot": 4,
         "linkType": 4,
         "platform": "kabam.com,kongregate,steam,rotmg",
-        "startTime": 0,
+        "startTime": 1477526400000,
         "title": "Update 1.0.X5.1 is live!",
         "image": "",
         "endTime": 2556143999000,
         "linkDetail": "<h2>Change log:</h2><br><ul><li>test message 1;</li><li>test message 2.</li></ul><br></hr><center>Best Regards, TFR Team</center>",
+        "priority": 1043
+    },
+    {
+        "slot": 5,
+        "linkType": 4,
+        "platform": "kabam.com,kongregate,steam,rotmg",
+        "startTime": 1477526400000,
+        "title": "Hello",
+        "image": "",
+        "endTime": 2556143999000,
+        "linkDetail": "test",
         "priority": 1043
     }
 ]
