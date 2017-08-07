@@ -8,7 +8,7 @@
       "image": "https://nitsravoki.github.io/tfr/1.0.X5.1/UpdateNews.png",
       "endTime": 2006729600000,
       "linkDetail": "",
-      "priority": 1091
+      "priority": 2000
    },
    {
       "slot": 2,
@@ -19,7 +19,7 @@
       "image": "https://nitsravoki.github.io/tfr/1.0.X5.1/Reward.png",
       "endTime": 4080326400000,
       "linkDetail": "702",
-      "priority": 1096
+      "priority": 2001
    },
    {
       "slot": 3,
@@ -30,7 +30,7 @@
       "image": "https://nitsravoki.github.io/tfr/static/DiscordBanner.png",
       "endTime": 4080326400000,
       "linkDetail": "https://discord.gg/heuxfeV",
-      "priority": 1094
+      "priority": 2002
    },
    {
       "slot": 4,
@@ -41,7 +41,7 @@
       "image": "",
       "endTime": 4080326400000,
       "linkDetail": "<h2>Change log:<\/h2>\n<ul><li>test message 1;<\/li><li>test message 2.<\/li><\/ul>\n\n<p align='center'>Best Regards, TFR Team<\/p>",
-      "priority": 1043
+      "priority": 2003
    },
    {
       "slot": 5,
@@ -52,6 +52,6 @@
       "image": "",
       "endTime": 4080326400000,
       "linkDetail": "Join our discord server, the link is available at <b>News<\/b>.\n<p align='center'>Best Regards, TFR Team<\/p>",
-      "priority": 939
+      "priority": 2004
    }
 ]
