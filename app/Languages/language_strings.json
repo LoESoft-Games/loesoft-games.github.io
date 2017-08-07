@@ -1,4 +1,6 @@
 [
+    [ "equip.Apple_of_Ex", "Apple of Extreme Maxening", "en"],
+    [ "equip.Apple_of_Ex_desc", "It's healthy!", "en"],
     [ "server.invalid_client", "Server cannot register your request as valid connection, about it your connect was refused.", "en"],
     [ "server.server_is_full", "Server is full at this moment, try again later.", "en"],
     [ "server.account_banned", "Your account is temporary suspended, about it your connect was refused.", "en"],
