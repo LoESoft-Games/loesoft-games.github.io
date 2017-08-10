@@ -2,9 +2,7 @@
 
 MayhemLab music track repository only.
 
-This is a repository of Assemblee Game Client of MayhemLab project which contains music track for read-only usage. You can redirect your game client to read our music tracks used on our projects, e.g. usage "https://nitsravoki.github.io/sfx/" + file + ".mp3".
+This is a repository of Assemblee Game Client of LoESoft project which contains music track for read-only usage. You can redirect your game client to read our music tracks used on our projects, e.g. usage "https://nitsravoki.github.io/sfx/" + file + ".mp3".
 
 Credits for development:
-
-- @nits;
-- @GhostMaree.
+- LoESoft Developers.
