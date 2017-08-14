@@ -6,3 +6,4 @@ This is a repository of Assemblee Game Client of LoESoft project which contains 
 
 ## Credits for development:
 - LoESoft Developers.
+**Share with your friends:** https://discord.gg/jHNTjun
