@@ -1,101 +1,101 @@
-[
-   {
-      "slot": 7,
-      "linkType": 4,
-      "platform": "kabam.com,kongregate,steam,rotmg",
-      "startTime": 1443571200000,
-      "title": "Support",
-      "image": "",
-      "endTime": 1446249600000,
-      "linkDetail": "<font size='+3'><p align='center'>Having some troubles in game or out? Have some ideas or feedback for the Game? Our door is always open, give Support a ring.<\/p>\r\n\r\n<p align='center'><a href=\"http://kabam.force.com/PKB/KbHome?gameid=a0Za000000jIBFUEA4\" target=\"_blank\">Realm of the Mad God Support<\/a><\/p><\/font>",
-      "priority": 936
-   },
-   {
-      "slot": 6,
-      "linkType": 4,
-      "platform": "kabam.com,kongregate,steam,rotmg",
-      "startTime": 1443571200000,
-      "title": "Forums",
-      "image": "",
-      "endTime": 1446249600000,
-      "linkDetail": "<font size='+3'><p align='center'>Want to discuss the Game with fellow Players and keep up to date with any updates and events in the community?<\/p>\r\n\r\n<p align='center'><a href=\"http://community.kabam.com/forums/forumdisplay.php?1089-Realm-of-the-Mad-God\" target=\"_blank\">Check out the Forums for all of that Realmy goodness, here!<\/a><\/p><\/font>",
-      "priority": 938
-   },
-   {
-      "slot": 5,
-      "linkType": 4,
-      "platform": "kabam.com,kongregate,steam,rotmg",
-      "startTime": 1443571200000,
-      "title": "RealmEye",
-      "image": "",
-      "endTime": 1446163200000,
-      "linkDetail": "<font size='+3'><p align='center'>Have you checked out RealmEye yet? Read up on the best Pets and Players, and check out the Wiki section to find tips and information about the Game!<\/p>\r\n\r\n<p align='center'><a href=\"http://www.realmeye.com/\" target=\"_blank\">http://www.realmeye.com/<\/a><\/p><\/font>",
-      "priority": 939
-   },
-   {
-      "slot": 4,
-      "linkType": 4,
-      "platform": "kabam.com,kongregate,steam,rotmg",
-      "startTime": 1477526400000,
-      "title": "Hello",
-      "image": "",
-      "endTime": 1477569600000,
-      "linkDetail": "test",
-      "priority": 1043
-   },
-   {
-      "slot": 1,
-      "linkType": 1,
-      "platform": "kabam.com,kongregate,steam,rotmg",
-      "startTime": 1501545600000,
-      "title": "MotMG & Lost Halls",
-      "image": "https://storage.googleapis.com/rotmg_images/MotMG%202017/MotMG%20Patch.png",
-      "endTime": 1506729600000,
-      "linkDetail": "https://www.reddit.com/r/RotMG/",
-      "priority": 1091
-   },
-   {
-      "slot": 3,
-      "linkType": 1,
-      "platform": "kabam.com,kongregate,steam,rotmg",
-      "startTime": 1501545600000,
-      "title": "Oryx Horde",
-      "image": "https://storage.googleapis.com/rotmg_images/MotMG%202017/iconstatue2.png",
-      "endTime": 1502261940000,
-      "linkDetail": "http://i.imgur.com/Dht3OmH.jpg",
-      "priority": 1094
-   },
-   {
-      "slot": 2,
-      "linkType": 2,
-      "platform": "kabam.com,kongregate,steam,rotmg",
-      "startTime": 1501545600000,
-      "title": "DECA Anniversary Pack",
-      "image": "https://storage.googleapis.com/rotmg_images/MotMG%202017/Deca_anniversary_small.png",
-      "endTime": 1504681140000,
-      "linkDetail": "702",
-      "priority": 1096
-   },
-   {
-      "slot": 2,
-      "linkType": 1,
-      "platform": "kabam.com,kongregate,steam,rotmg",
-      "startTime": 1485364129000,
-      "title": "Join the Community!",
-      "image": "https://storage.googleapis.com/rotmg_images/MOTMG%202016/redditPic.png",
-      "endTime": 1643130529000,
-      "linkDetail": "https://www.reddit.com/r/RotMG",
-      "priority": 1097
-   },
-   {
-      "slot": 3,
-      "linkType": 2,
-      "platform": "kabam.com,kongregate,steam,rotmg",
-      "startTime": 1493020800000,
-      "title": "Ambrosia Pack",
-      "image": "https://storage.googleapis.com/rotmg_images/News/x5AmbroNews.png",
-      "endTime": 4080326400000,
-      "linkDetail": "695",
-      "priority": 1098
-   }
+[  
+	{
+    "slot": 7,
+    "linkType": 4,
+    "platform": "kabam.com,kongregate,steam,rotmg",
+    "startTime": 1443571200000,
+    "title": "Support",
+    "image": "",
+    "endTime": 1446249600000,
+    "linkDetail": "<font size='+3'><p align='center'>Having some troubles in game or out? Have some ideas or feedback for the Game? Our door is always open, give Support a ring.</p>\r\n\r\n<p align='center'><a href=\"http://kabam.force.com/PKB/KbHome?gameid=a0Za000000jIBFUEA4\" target=\"_blank\">Realm of the Mad God Support</a></p></font>",
+    "priority": 936
+  },
+  {
+    "slot": 6,
+    "linkType": 4,
+    "platform": "kabam.com,kongregate,steam,rotmg",
+    "startTime": 1443571200000,
+    "title": "Forums",
+    "image": "",
+    "endTime": 1446249600000,
+    "linkDetail": "<font size='+3'><p align='center'>Want to discuss the Game with fellow Players and keep up to date with any updates and events in the community?</p>\r\n\r\n<p align='center'><a href=\"http://community.kabam.com/forums/forumdisplay.php?1089-Realm-of-the-Mad-God\" target=\"_blank\">Check out the Forums for all of that Realmy goodness, here!</a></p></font>",
+    "priority": 938
+  },
+  {
+    "slot": 5,
+    "linkType": 4,
+    "platform": "kabam.com,kongregate,steam,rotmg",
+    "startTime": 1443571200000,
+    "title": "RealmEye",
+    "image": "",
+    "endTime": 1446163200000,
+    "linkDetail": "<font size='+3'><p align='center'>Have you checked out RealmEye yet? Read up on the best Pets and Players, and check out the Wiki section to find tips and information about the Game!</p>\r\n\r\n<p align='center'><a href=\"http://www.realmeye.com/\" target=\"_blank\">http://www.realmeye.com/</a></p></font>",
+    "priority": 939
+  },
+  {
+    "slot": 4,
+    "linkType": 4,
+    "platform": "kabam.com,kongregate,steam,rotmg",
+    "startTime": 1477526400000,
+    "title": "Hello",
+    "image": "",
+    "endTime": 1477569600000,
+    "linkDetail": "test",
+    "priority": 1043
+  },
+  {
+    "slot": 1,
+    "linkType": 1,
+    "platform": "kabam.com,kongregate,steam,rotmg",
+    "startTime": 1501545600000,
+    "title": "MotMG & Lost Halls",
+    "image": "https://storage.googleapis.com/rotmg_images/MotMG%202017/MotMG%20Patch.png",
+    "endTime": 1506729600000,
+    "linkDetail": "https://www.reddit.com/r/RotMG/",
+    "priority": 1091
+  },
+  {
+    "slot": 3,
+    "linkType": 1,
+    "platform": "kabam.com,kongregate,steam,rotmg",
+    "startTime": 1501545600000,
+    "title": "Oryx Horde",
+    "image": "https://storage.googleapis.com/rotmg_images/MotMG%202017/iconstatue2.png",
+    "endTime": 1502261940000,
+    "linkDetail": "http://i.imgur.com/Dht3OmH.jpg",
+    "priority": 1094
+  },
+  {
+    "slot": 2,
+    "linkType": 2,
+    "platform": "kabam.com,kongregate,steam,rotmg",
+    "startTime": 1501545600000,
+    "title": "DECA Anniversary Pack",
+    "image": "https://storage.googleapis.com/rotmg_images/MotMG%202017/Deca_anniversary_small.png",
+    "endTime": 1504681140000,
+    "linkDetail": "702",
+    "priority": 1096
+  },
+  {
+    "slot": 2,
+    "linkType": 1,
+    "platform": "kabam.com,kongregate,steam,rotmg",
+    "startTime": 1485364129000,
+    "title": "Join the Community!",
+    "image": "https://storage.googleapis.com/rotmg_images/MOTMG%202016/redditPic.png",
+    "endTime": 1643130529000,
+    "linkDetail": "https://www.reddit.com/r/RotMG",
+    "priority": 1097
+  },
+  {
+    "slot": 3,
+    "linkType": 2,
+    "platform": "kabam.com,kongregate,steam,rotmg",
+    "startTime": 1493020800000,
+    "title": "Ambrosia Pack",
+    "image": "https://storage.googleapis.com/rotmg_images/News/x5AmbroNews.png",
+    "endTime": 4080326400000,
+    "linkDetail": "695",
+    "priority": 1098
+  }
 ]
