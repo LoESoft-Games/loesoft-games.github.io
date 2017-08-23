@@ -16,6 +16,9 @@
     <Price amount="51" currency="0"/>
     <Image>http://i.imgur.com/btpSBBp.png</Image>
     <Icon></Icon>
+	<Sale price="0" currency="0">
+	  <End>01-01-0001 00:00:00</End>
+	</Sale>
     <StartTime>2014-01-14 13:07:23</StartTime>
   </MysteryBox>
   <MysteryBox id = "38" title = "The Holy Avenger" weight = "0">
@@ -24,6 +27,9 @@
     <Price amount="51" currency="0"/>
     <Image>http://i.imgur.com/GmW5kP9.png</Image>
     <Icon></Icon>
+	<Sale price="0" currency="0">
+	  <End>01-01-0001 00:00:00</End>
+	</Sale>
     <StartTime>2014-06-16 17:55:58</StartTime>
   </MysteryBox>
   <MysteryBox id = "39" title = "The Lair of Draconis Box" weight = "-1">
@@ -32,6 +38,9 @@
     <Price amount="150" currency="0"/>
     <Image>http://i.imgur.com/hgRW660.png</Image>
     <Icon></Icon>
+	<Sale price="0" currency="0">
+	  <End>01-01-0001 00:00:00</End>
+	</Sale>
     <StartTime>2014-06-20 13:56:00</StartTime>
   </MysteryBox>
 </MysteryBoxData>
