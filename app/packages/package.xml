@@ -1,1 +1,37 @@
-<MiniGames version = "0.000000"><MysteryBox id = "97" title = "Keys Extravaganza" weight = "1"><Description></Description><Contents>3293,3293,3293,3293,3293,3293,3293,3293,3293,3293,3293,3293,3293,3293,3293,1808,1808,1808,1808,1808,1808,1808,1808,1808,1808,1808,1808,1808,1808,1808,3089,3089,3089,3089,3089,3089,3089,3089,3089,3089,3089,3089,3089,3089,3089</Contents><Price amount="950" currency="0"/><Image>https://storage.googleapis.com/rotmg_images/Mystery%20Boxes/KeysExtravaganza.png</Image><Icon></Icon><StartTime>2017-01-05 12:30:46</StartTime><Left>-1</Left><Total>-1</Total></MysteryBox><MysteryBox id = "195" title = "Beachcake Party Triple Box" weight = "0"><Description></Description><Contents>19395,19396,19399,19400,19401,19481,19495,19495,19401,2991,2483,5091,5076,3266,5074,3276;19400,19399,811,2473,5093,5080,3176,3180,3272,3107;19481,19395,19396,810,5092,4252,5073,1808,303,29804</Contents><Price amount="210" currency="0"/><Image>https://storage.googleapis.com/rotmg_images/MotMG%202017/Beachcake%20Triple.png</Image><Icon></Icon><StartTime>2017-08-16 07:00:00</StartTime><Left>-1</Left><Total>-1</Total></MysteryBox><MysteryBox id = "198" title = "Biff's Revenge Fame Box" weight = "0"><Description></Description><Contents>3264,3251,3263,2463,2473,2483,5094,5094,3262,3276,5073</Contents><Price amount="100" currency="1"/><Image>https://storage.googleapis.com/rotmg_images/MotMG%202017/Biif's%20Revenge%20Fame%20Box.png</Image><Icon></Icon><StartTime>2017-08-17 07:00:00</StartTime><Left>-1</Left><Total>-1</Total></MysteryBox><MysteryBox id = "118" title = "Swoll Redux Box" weight = "8"><Description></Description><Contents>9061,9060,3180,4634,4636,4134,4421;9060,9061,9062,9063,9604,9063,3180,4634,4636,4134,4421,9604;9063,9604,3180,4634,4636,4134,4421</Contents><Price amount="149" currency="0"/><Image>https://storage.googleapis.com/rotmg_images/Mystery%20Boxes/SwollReduxBox.png</Image><Icon></Icon><StartTime>2017-08-23 07:00:00</StartTime><Left>-1</Left><Total>-1</Total></MysteryBox><MysteryBox id = "91" title = "The Spectacular Ambrosia Box" weight = "1"><Description></Description><Contents>3276,3276,3276,3276,3276,3276,3276,3276,3276,3271,3271,3272,3269,3269,3268,3270,3275,3275</Contents><Price amount="99" currency="0"/><Image>https://storage.googleapis.com/rotmg_images/Mystery%20Boxes/SAJP.png</Image><Icon></Icon><StartTime>2016-12-17 12:40:00</StartTime><Left>-1</Left><Total>-1</Total></MysteryBox><MysteryBox id = "189" title = "The Box Box" weight = "0"><Description></Description><Contents>1808,1808,1808,1808,1808,1808,1808,1808,1808,1808,5077,5080,19442,19442,5080,811,5076,5092,2483,1808,316,316,5072,5072,3266,3266</Contents><Price amount="140" currency="0"/><Image>https://storage.googleapis.com/rotmg_images/MotMG%202017/Box%20Box.png</Image><Icon></Icon><StartTime>2017-08-17 07:00:00</StartTime><Left>-1</Left><Total>-1</Total></MysteryBox></MiniGames>
+<MysteryBoxData version = "1405605653.903848">
+  <MysteryBox id = "30" title = "The Triple Ambrosia Mystery Box" weight = "0">
+    <Description></Description>
+    <Contents>3276,3271,3274,3268,3269;3271,3274,3268,3269;3276,3271,3274,3268,3269</Contents>
+    <Price amount="500" currency="0"/>
+    <Image>http://i.imgur.com/mtGHzqL.png</Image>
+    <Icon></Icon>
+    <Sale price="20" currency="1">
+      <End>2014-08-03 00:00:00</End>
+    </Sale>
+    <StartTime>2014-05-05 11:26:21</StartTime>
+  </MysteryBox>
+  <MysteryBox id = "13" title = "The Shoveguy Mystery Box" weight = "1">
+    <Description></Description>
+    <Contents>8781,4670,4671,4663,4672,4926,4927,4919,4929,4137,4146,4157,4176,4393,4402,4413,4176,4133,4389,4904,4648</Contents>
+    <Price amount="51" currency="0"/>
+    <Image>http://i.imgur.com/btpSBBp.png</Image>
+    <Icon></Icon>
+    <StartTime>2014-01-14 13:07:23</StartTime>
+  </MysteryBox>
+  <MysteryBox id = "38" title = "The Holy Avenger" weight = "0">
+    <Description></Description>
+    <Contents>8783,4686,4942,4687,4943,4926,4927,4919,4929,4137,4146,4157,4176,4393,4402,4413,4176,4133,4389,4904,4648</Contents>
+    <Price amount="51" currency="0"/>
+    <Image>http://i.imgur.com/GmW5kP9.png</Image>
+    <Icon></Icon>
+    <StartTime>2014-06-16 17:55:58</StartTime>
+  </MysteryBox>
+  <MysteryBox id = "39" title = "The Lair of Draconis Box" weight = "-1">
+    <Description></Description>
+    <Contents>3284,1808,1793,1802,3170,3293,8852</Contents>
+    <Price amount="150" currency="0"/>
+    <Image>http://i.imgur.com/hgRW660.png</Image>
+    <Icon></Icon>
+    <StartTime>2014-06-20 13:56:00</StartTime>
+  </MysteryBox>
+</MysteryBoxData>
