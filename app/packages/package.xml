@@ -10,26 +10,6 @@
       <Left>-1</Left>
       <Total>-1</Total>
    </MysteryBox>
-   <MysteryBox id="195" title="Beachcake Party Triple Box" weight="0">
-      <Description />
-      <Contents>19395,19396,19399,19400,19401,19481,19495,19495,19401,2991,2483,5091,5076,3266,5074,3276;19400,19399,811,2473,5093,5080,3176,3180,3272,3107;19481,19395,19396,810,5092,4252,5073,1808,303,29804</Contents>
-      <Price amount="210" currency="0" />
-      <Image>https://storage.googleapis.com/rotmg_images/MotMG%202017/Beachcake%20Triple.png</Image>
-      <Icon />
-      <StartTime>2017-08-16 07:00:00</StartTime>
-      <Left>-1</Left>
-      <Total>-1</Total>
-   </MysteryBox>
-   <MysteryBox id="198" title="Biff's Revenge Fame Box" weight="0">
-      <Description />
-      <Contents>3264,3251,3263,2463,2473,2483,5094,5094,3262,3276,5073</Contents>
-      <Price amount="100" currency="1" />
-      <Image>https://storage.googleapis.com/rotmg_images/MotMG%202017/Biif's%20Revenge%20Fame%20Box.png</Image>
-      <Icon />
-      <StartTime>2017-08-17 07:00:00</StartTime>
-      <Left>-1</Left>
-      <Total>-1</Total>
-   </MysteryBox>
    <MysteryBox id="118" title="Swoll Redux Box" weight="8">
       <Description />
       <Contents>9061,9060,3180,4634,4636,4134,4421;9060,9061,9062,9063,9604,9063,3180,4634,4636,4134,4421,9604;9063,9604,3180,4634,4636,4134,4421</Contents>
@@ -47,16 +27,6 @@
       <Image>https://storage.googleapis.com/rotmg_images/Mystery%20Boxes/SAJP.png</Image>
       <Icon />
       <StartTime>2016-12-17 12:40:00</StartTime>
-      <Left>-1</Left>
-      <Total>-1</Total>
-   </MysteryBox>
-   <MysteryBox id="189" title="The Box Box" weight="0">
-      <Description />
-      <Contents>1808,1808,1808,1808,1808,1808,1808,1808,1808,1808,5077,5080,19442,19442,5080,811,5076,5092,2483,1808,316,316,5072,5072,3266,3266</Contents>
-      <Price amount="140" currency="0" />
-      <Image>https://storage.googleapis.com/rotmg_images/MotMG%202017/Box%20Box.png</Image>
-      <Icon />
-      <StartTime>2017-08-17 07:00:00</StartTime>
       <Left>-1</Left>
       <Total>-1</Total>
    </MysteryBox>
