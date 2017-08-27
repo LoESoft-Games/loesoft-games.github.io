@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PackageResponse>
+   <Packages>
+      <Package id="704">
+         <Name>Super Ambro Pack</Name>
+         <Price>3500</Price>
+         <Quantity>-1</Quantity>
+         <MaxPurchase>-1</MaxPurchase>
+         <Weight>2</Weight>
+         <BgURL>https://storage.googleapis.com/rotmg_images/MotMG%202017/x6AmbroPack.png</BgURL>
+         <EndDate>08/16/2099 00:00:00 GMT-0800</EndDate>
+      </Package>
+      <Package id="705">
+         <Name>Mad Ample Pack</Name>
+         <Price>3000</Price>
+         <Quantity>-1</Quantity>
+         <MaxPurchase>1</MaxPurchase>
+         <Weight>5</Weight>
+         <BgURL>https://storage.googleapis.com/rotmg_images/MotMG%202017/MadAmplePack.png</BgURL>
+         <EndDate>08/28/2017 06:59:00 GMT-0800</EndDate>
+      </Package>
+      <Package id="701">
+         <Name>Craig's Welcome Pack</Name>
+         <Price>0</Price>
+         <Quantity>-1</Quantity>
+         <MaxPurchase>1</MaxPurchase>
+         <Weight>10</Weight>
+         <BgURL>https://storage.googleapis.com/rotmg_images/MotMG%202017/Craig%20Welcome%20Pack%20Fix.png</BgURL>
+         <EndDate>09/06/2017 06:59:00 GMT-0800</EndDate>
+      </Package>
+   </Packages>
+</PackageResponse>
