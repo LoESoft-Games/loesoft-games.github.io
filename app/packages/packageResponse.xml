@@ -7,7 +7,7 @@
          <Quantity>-1</Quantity>
          <MaxPurchase>-1</MaxPurchase>
          <Weight>2</Weight>
-         <BgURL>https://storage.googleapis.com/rotmg_images/MotMG%202017/x6AmbroPack.png</BgURL>
+         <BgURL>http://appengine.loesoft.org/remote/assets/package/x6AmbroPack.png</BgURL>
          <EndDate>4090521600</EndDate>
          <Contents>3276,3276,3276,3276,3276,3276</Contents>
       </Package>
