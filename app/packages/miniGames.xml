@@ -6,7 +6,7 @@
       <Price amount="950" currency="0" />
       <Image>https://storage.googleapis.com/rotmg_images/Mystery%20Boxes/KeysExtravaganza.png</Image>
       <Icon />
-      <StartTime>1483228800</StartTime>
+      <StartTime>2017-01-05 12:30:46</StartTime>
       <Left>-1</Left>
       <Total>-1</Total>
    </MysteryBox>
@@ -16,7 +16,7 @@
       <Price amount="149" currency="0" />
       <Image>https://storage.googleapis.com/rotmg_images/Mystery%20Boxes/SwollReduxBox.png</Image>
       <Icon />
-      <StartTime>1483228800</StartTime>
+      <StartTime>2017-08-23 07:00:00</StartTime>
       <Left>-1</Left>
       <Total>-1</Total>
    </MysteryBox>
@@ -26,7 +26,7 @@
       <Price amount="99" currency="0" />
       <Image>https://storage.googleapis.com/rotmg_images/Mystery%20Boxes/SAJP.png</Image>
       <Icon />
-      <StartTime>1483228800</StartTime>
+      <StartTime>2016-12-17 12:40:00</StartTime>
       <Left>-1</Left>
       <Total>-1</Total>
    </MysteryBox>
@@ -38,7 +38,7 @@
       <Price firstInGold="100" firstInToken="1" secondInGold="250"/>
       <Image>http://rotmg.kabamcdn.com/MadGodArmorAlchemistRewards.png</Image>
       <Icon></Icon>
-      <StartTime>1483228800</StartTime>
-      <EndTime>4090521600</EndTime>
+      <StartTime>2014-09-18 13:25:20</StartTime>
+      <EndTime>2014-09-23 13:33:00</EndTime>
    </FortuneGame>
 </MiniGames>
