@@ -7,7 +7,7 @@
          <Quantity>-1</Quantity>
          <MaxPurchase>-1</MaxPurchase>
          <Weight>2</Weight>
-         <BgURL>http://appengine.loesoft.org/remote/assets/package/x6AmbroPack.png</BgURL>
+         <BgURL>https://devwarlt.github.io/remote/assets/package/x6AmbroPack.png</BgURL>
          <EndDate>4090521600</EndDate>
          <Contents>3276,3276,3276,3276,3276,3276</Contents>
       </Package>
