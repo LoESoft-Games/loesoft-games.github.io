@@ -3,7 +3,7 @@
    <MysteryBox id="97" title="Keys Extravaganza" weight="1">
       <Description />
       <Contents>
-         3293,3293,3293,3293,3293,3293,3293,3293,3293,3293,3293,3293,3293,3293,3293,1808,1808,1808,1808,1808,1808,1808,1808,1808,1808,1808,1808,1808,1808,1808,3089,3089,3089,3089,3089,3089,3089,3089,3089,3089,3089,3089,3089,3089,3089
+         0xcdd,0xcdd,0xcdd,0xcdd,0xcdd,0xcdd,0xcdd,0xcdd,0xcdd,0xcdd;0xc11,0xc11,0xc11,0xc11,0xc11,0xc11,0xc11,0xc11,0xc11,0xc11;0x710,0x710,0x710,0x710,0x710,0x710,0x710,0x710,0x710,0x710;0xcdd,0xcdd,0xcdd,0xcdd,0xcdd;0xc11,0xc11,0xc11,0xc11,0xc11;0x710,0x710,0x710,0x710,0x710
       </Contents>
       <Price amount="950" currency="0" />
       <Image>https://devwarlt.github.io/remote/assets/mysterybox/KeysExtravaganza.png</Image>
@@ -15,7 +15,7 @@
    <MysteryBox id="118" title="Swoll Redux Box" weight="8">
       <Description />
       <Contents>
-         9061,9060,3180,4634,4636,4134,4421,9060,9061,9062,9063,9604,9063,3180,4634,4636,4134,4421,9604,9063,9604,3180,4634,4636,4134,4421
+         0x2367,0x2366,0x2365,0x2364,0x2584,4634,4636,4134,4421,3180,4634,4636,4134,4421,4634,4636,4134,4421
       </Contents>
       <Price amount="149" currency="0" />
       <Image>https://devwarlt.github.io/remote/assets/mysterybox/SwollReduxBox.png</Image>
