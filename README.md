@@ -7,3 +7,7 @@ This is a repository of Assemblee Game Client of LoESoft project which contains 
 
 **Discord:**
 - [![Join Us!](https://discordapp.com/api/guilds/345060662260531202/embed.png)](https://discord.gg/jHNTjun)
+
+**Game Source Code:**
+- ![LoE v4 Client source code](https://github.com/Devwarlt/LOE-V4-CLIENT)
+- ![LoE v4 Server source code](https://github.com/Devwarlt/LOE-V4-SERVER)
