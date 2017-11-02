@@ -1,0 +1,34 @@
+{
+  "name": "LOEbot",
+  "version": "2.0.3",
+  "description": "A bot.",
+  "main": "node loebot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node loebot.js"
+  },
+  "engines": { "node": "8.4.0" },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/allte/LoE-Bot.git"
+  },
+  "author": "allte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allte/LoE-Bot"
+  },
+  "homepage": "https://github.com/allte/LoE-Bot#readme",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "enmap": "^0.3.2",
+    "moment-duration-format": "^1.3.0",
+    "express": "^4.15.5",
+    "sqlite": "^2.8.0",
+    "enmap": "^0.4.2",
+    "enmap-level": "^1.0.0",
+    "ms": "^2.0.0",
+    "discord-eco": "^0.0.10",
+    "moment-timer": "^1.2.1",
+    "moment": "^2.19.1"
+  }
+}
