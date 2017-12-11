@@ -1,5 +1,5 @@
-[
-  {
+{
+  "gameStoreData": {
     "welcome": "<b>Welcome to the Game Store!</b>\n\nChose any of store options to start purchasing stuffs.\n\n\n\n<i><b>Note:</b> You can clean all pending purchases closing Game Store.</i>\n\nKind regards, The Staff.\nYour <b>LoESoft Games</b>",
     "offers": [
       {
@@ -148,4 +148,4 @@
       }
     ]
   }
-]
+}
