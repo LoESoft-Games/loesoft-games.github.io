@@ -1343,6 +1343,7 @@
   [ "ServerBox.offline", "Offline", "en" ],
   [ "CurrentCharacter.tagline", "Class Quest: {fame} of {nextStarFame} Fame", "en" ],
   [ "CurrentCharacter.tagline_noquest", "{fame} Fame", "en" ],
+  [ "CurrentCharacter.taglineExp", "{experience} XP", "en" ],
   [ "TestingNoServersDialogFactory.tile", "No Testing Servers", "en" ],
   [ "TestingNoServersDialogFactory.body", "There are currently no testing servers available. Please play on {production_link}.", "en" ],
   [ "ProductionNoServersDialogFactory.tile", "Oryx Sleeping", "en" ],
