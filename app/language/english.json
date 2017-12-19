@@ -1341,7 +1341,7 @@
   [ "ServerBox.crowded", "Crowded", "en" ],
   [ "ServerBox.full", "Full", "en" ],
   [ "ServerBox.offline", "Offline", "en" ],
-  [ "CurrentCharacter.tagline", "{quest}/5 Class Quests", "en" ],
+  [ "CurrentCharacter.tagline", "{quest}/5", "en" ],
   [ "CurrentCharacter.taglineFame", "{fame}/{nextStarFame} Fame", "en" ],
   [ "CurrentCharacter.taglineFame_noquest", "{fame} Fame", "en" ],
   [ "CurrentCharacter.taglineExp", "{experience} XP", "en" ],
