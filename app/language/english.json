@@ -1483,7 +1483,7 @@
   [ "CharacterSelection.news", "News", "en" ],
   [ "CharacterSelection.characters", "Characters", "en" ],
   [ "CharacterSelection.graveyard", "Graveyard", "en" ],
-  [ "CurrentCharacter.description", "(Lvl {level}) {className}", "en" ],
+  [ "CurrentCharacter.description", "Level {level} {className}", "en" ],
   [ "CreateNewCharacterRect.newCharacter", "New Character", "en" ],
   [ "CreateNewCharacterRect.tagline", "{remainingStars} Class quests not yet completed", "en" ],
   [ "CharacterBox.locked", "Locked", "en" ],
