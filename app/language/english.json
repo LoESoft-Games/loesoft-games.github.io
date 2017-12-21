@@ -1342,6 +1342,7 @@
   [ "ServerBox.full", "Full", "en" ],
   [ "ServerBox.offline", "Offline", "en" ],
   [ "CurrentCharacter.tagline", "{quest}/5", "en" ],
+  [ "CurrentCharacter.tagline_noquest", "{fame} Fame", "en" ],
   [ "CurrentCharacter.taglineFame", "{fame}/{nextStarFame} Fame", "en" ],
   [ "CurrentCharacter.taglineFame_noquest", "{fame} Fame", "en" ],
   [ "CurrentCharacter.taglineExp", "{experience} XP", "en" ],
