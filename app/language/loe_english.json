@@ -1585,7 +1585,7 @@
   [ "Options.ToggleNewMiniMapColorsTextDesc", "Experimental: slightly different colors to indicate locked, unlocked and unnamed players.", "en" ],
   [ "Options.ToggleParticleEffect", "Particle Effect", "en" ],
   [ "Options.ToggleParticleEffectDesc", "Reduce particle to help performance", "en" ],
-  [ "TitleView.Copyright", "Â© 2017 Deca Games OÃœ", "en" ],
+  [ "TitleView.Copyright", "© LoESoft Games 2015-2018. All rights reserved by GNU GPL v3.0.", "en" ],
   [ "CharacterDetailsView.Nexus", "Nexus", "en" ],
   [ "CharacterDetailsView.Options", "Options", "en" ],
   [ "IconButton.hotKey", "Hotkey: {hotkey}", "en" ],
