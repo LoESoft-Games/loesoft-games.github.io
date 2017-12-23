@@ -8,6 +8,7 @@ This is a LoESoft library for webserver as read-only for all game clients / feat
 ## Game Source Code
 - **LoE v4 Client**: https://github.com/Devwarlt/LOE-V4-CLIENT.git
 - **LoE v4 Server**: https://github.com/Devwarlt/LOE-V4-SERVER.git
+- **LoE v6 Client + Server**: https://github.com/Devwarlt/LOE-V6.git
 
 ## Special thanks
 - GhostMaree;
