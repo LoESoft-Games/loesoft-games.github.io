@@ -1,4 +1,4 @@
-# AppEngine (read-only) Repository for remote data (https://devwarlt.github.io/)
+# AppEngine (read-only) Repository for remote data (https://loesoft-games.github.io/)
 
 This is a LoESoft library for webserver as read-only for all game clients / features. You can redirect your game client to read our music tracks used in our projects or assets like packages, minigames or any other feature included here without restriction.
 
