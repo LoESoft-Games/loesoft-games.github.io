@@ -10,6 +10,9 @@ This is a LoESoft library for webserver as read-only for all game clients / feat
 - **LoE v4 Server**: https://github.com/Devwarlt/LOE-V4-SERVER.git
 - **LoE v6 Client + Server**: https://github.com/Devwarlt/LOE-V6.git
 
+## Change this repository to yours (video tutorial)
+https://youtu.be/QvgpZk8gBcY
+
 ## Special thanks
 - GhostMaree;
 - Devwarlt;
