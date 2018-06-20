@@ -1,5 +1,5 @@
 # Report Game Issues
-https://github.com/LoESoft-Games/LOE-Realm/issues
+https://github.com/LoESoft-Games/LoE-Realm/issues
 
 # Download latest game client
 https://github.com/LoESoft-Games/LoE-Realm/releases
